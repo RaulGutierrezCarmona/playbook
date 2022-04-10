@@ -1,0 +1,8 @@
+MAE@LATITUDE-E6410 MINGW64 ~/Desktop/Launchx-BJS/playbook/weekly_mission_1/example1 (main)
+$ node main.js
+{ make: 'Ford', model: 'Mustang', year: 1969 }
+{
+  publicFoo: 'Valor público, pueden verme desde donde me llamen',
+  publicBar: 'Otro valor público',
+  publicBaz: 'Soy un valor que va a ser expuesto'
+}
