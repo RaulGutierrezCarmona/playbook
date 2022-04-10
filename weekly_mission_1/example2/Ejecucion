@@ -1,0 +1,4 @@
+MAE@LATITUDE-E6410 MINGW64 ~/Desktop/Launchx-BJS/playbook/weekly_mission_1/example2 (main)
+$ node main.js
+info: This is an informational message
+verbose: This is a verbose message
