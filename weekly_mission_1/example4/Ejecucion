@@ -1,0 +1,4 @@
+MAE@LATITUDE-E6410 MINGW64 ~/Desktop/Launchx-BJS/playbook/weekly_mission_1/example4 (main)
+$ node main.js
+[Objeto con nombre: DB] info: This is an informational message
+[Objeto con nombre: ACCESS] verbose: This is a verbose message
