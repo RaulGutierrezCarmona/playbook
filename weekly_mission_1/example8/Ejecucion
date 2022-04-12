@@ -1,0 +1,9 @@
+MAE@LATITUDE-E6410 MINGW64 ~/Desktop/Launchx-BJS/playbook/weekly_mission_1/example8 (main)
+$ node main.js
+(node:13328) ExperimentalWarning: The ESM module loader is experimental.
+[info] Hello World
+
+MAE@LATITUDE-E6410 MINGW64 ~/Desktop/Launchx-BJS/playbook/weekly_mission_1/example8 (main)
+$ node main_2.js
+(node:18476) ExperimentalWarning: The ESM module loader is experimental.
+[Module] { default: [class Logger] }
